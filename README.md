@@ -1,5 +1,6 @@
 # Memory Game
 A retro grid-based game in vanilla JavaScript, HTML and CSS
+This code mostly copied from @kubowania
 
 It's a very simple matching game where you try to match two same images or cards. Some of it's rules are distribed below
 
