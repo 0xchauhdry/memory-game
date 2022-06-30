@@ -113,6 +113,6 @@ function flipCard() {
     }
   }
 
-  window.addEventListener('DOMContentLoaded', () => {
+window.addEventListener('DOMContentLoaded', () => {
     createBoard()
 })
